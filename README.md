@@ -1,6 +1,6 @@
-## Quién soy y qué hago 🧩
+## 🧩 Quién soy y qué hago 
 
-Soy desarrollador backend con "toques" de frontend. Me apasiona lo que hago, disfruto participar en proyectos de tipo startup y tengo un fuerte interés por enseñar lo que aprendo con otros.
+Soy Ingeniero en Informática con foco en desarrollo backend y formación en liderazgo técnico. Me apasiona construir soluciones, trabajar en entornos startup y compartir lo que aprendo como profesor y mentor.
 
 ---
 
