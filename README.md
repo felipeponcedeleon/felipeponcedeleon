@@ -4,7 +4,7 @@ Soy Ingeniero en Informática con foco en desarrollo backend y formación en lid
 
 ---
 
-## 🔥 Nuevo Proyecto 
+## 🔥 Proyectos para la comunidad
 
 ### 📘 Curso de JavaScript desde cero
 > Aprende JavaScript desde lo más básico hasta conceptos avanzados.  
