@@ -30,13 +30,6 @@ Soy desarrollador backend con "toques" de frontend. Me apasiona lo que hago, dis
 
 ---
 
-## 🌐 Contacto
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:felipeponcedeleon@outlook.com.com)
-
----
-
 💬 Si encuentras útil el curso, no dudes en darle una ⭐ o compartirlo.
 
 
