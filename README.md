@@ -1,16 +1,42 @@
-## Hi there 👋
+## Quién soy y qué hago 🧩
 
-<!--
-**felipeponcedeleon/felipeponcedeleon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy desarrollador backend con "toques" de frontend. Me apasiona lo que hago, disfruto participar en proyectos de tipo startup y tengo un fuerte interés por enseñar lo que aprendo con otros.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Nuevo Proyecto 
+
+### 📘 Curso de JavaScript desde cero
+> Aprende JavaScript desde lo más básico hasta conceptos avanzados.  
+> En cada clase se adjunta el código fuente totalmente comentado y con ejercicios.
+
+📌 Repositorio del curso:  
+[➡️ github.com/felipeponcedeleon/curso-javascript-desde-cero](https://github.com/felipeponcedeleon/curso-javascript-basico)
+
+---
+
+## 🛠️ Stack tecnológico
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+![ESP8266](https://img.shields.io/badge/-ESP8266-000000?style=flat&logo=espressif&logoColor=white)
+
+
+
+---
+
+## 🌐 Contacto
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:felipeponcedeleon@outlook.com.com)
+
+---
+
+💬 Si encuentras útil el curso, no dudes en darle una ⭐ o compartirlo.
+
+
