@@ -30,6 +30,6 @@ Soy Ingeniero en Informática con foco en desarrollo backend y formación en lid
 
 ---
 
-💬 Si encuentras útil el curso o alguno de mis repositorios, no dudes en darle una ⭐ o compartirlo.
+💬 Si encuentras útil el curso o alguno de mis repositorios, entonces dale una ⭐ o comparte.
 
 
